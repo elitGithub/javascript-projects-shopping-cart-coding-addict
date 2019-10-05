@@ -28,17 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="66" selection-start-line="66" selection-start-column="4" selection-end-line="68" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="192" column="9" selection-start-line="192" selection-start-column="1" selection-end-line="192" selection-end-column="9" />
+            <state relative-caret-position="471">
+              <caret line="74" column="36" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -46,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="135" column="29" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
+            <state relative-caret-position="602">
+              <caret line="170" column="82" selection-start-line="170" selection-start-column="82" selection-end-line="170" selection-end-column="82" />
               <folding>
                 <element signature="n#Products#0" />
               </folding>
@@ -74,7 +65,11 @@
       <find>overlay</find>
       <find>product-</find>
       <find>content</find>
+      <find>clearCartBtn</find>
+      <find>saveC</find>
+      <find>cartLogic</find>
       <find>transparentBcg</find>
+      <find>clear-btn</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,12 +155,12 @@
       <workItem from="1569919350380" duration="8378000" />
       <workItem from="1569954375434" duration="4236000" />
       <workItem from="1570211880411" duration="902000" />
-      <workItem from="1570263380795" duration="10539000" />
+      <workItem from="1570263380795" duration="15152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32649000" />
+    <option name="totallyTimeSpent" value="37262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -203,24 +198,24 @@
     <entry file="file://$PROJECT_DIR$/products.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="66" selection-start-line="66" selection-start-column="4" selection-end-line="68" selection-end-column="22" />
+        <state relative-caret-position="273">
+          <caret line="192" column="9" selection-start-line="192" selection-start-column="9" selection-end-line="192" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="192" column="9" selection-start-line="192" selection-start-column="1" selection-end-line="192" selection-end-column="9" />
+        <state relative-caret-position="471">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="135" column="29" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
+        <state relative-caret-position="602">
+          <caret line="170" column="82" selection-start-line="170" selection-start-column="82" selection-end-line="170" selection-end-column="82" />
           <folding>
             <element signature="n#Products#0" />
           </folding>
