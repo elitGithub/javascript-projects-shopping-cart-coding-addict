@@ -132,6 +132,12 @@ class UI {
     }
 
     cartLogic() {
+        clearCartBtn.addEventListener('click', () => {
+            this.clearCart();
+        });
+    }
+
+    clearCart() {
 
     }
 
