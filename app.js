@@ -131,6 +131,10 @@ class UI {
         cartDOM.classList.remove('showCart');
     }
 
+    cartLogic() {
+
+    }
+
     setupAPP() {
         cart = Storage.getCart();
         this.setCartValues(cart);
@@ -176,6 +180,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Storage.saveProducts(products);
     }).then(() => {
         ui.getBagButtons();
+        ui.cartLogic();
     });
 
 });

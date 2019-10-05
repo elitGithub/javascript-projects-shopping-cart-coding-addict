@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48868ea0-baea-4e83-be23-da8704862bde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/js shopping cart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hero-bcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product-8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup-files-js-comfy-house" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup-files-js-comfy-house" beforeDir="false" afterPath="$PROJECT_DIR$/setup-files-js-comfy-house" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup-files-js-comfy-house/images/hero-bcg.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/setup-files-js-comfy-house/images/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/setup-files-js-comfy-house/images/product-1.jpeg" beforeDir="false" />
@@ -65,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="144" column="1" lean-forward="true" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
+            <state relative-caret-position="327">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
               <folding>
                 <element signature="n#Products#0" />
               </folding>
@@ -112,8 +93,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="131" />
-    <option name="y" value="-8" />
+    <option name="x" value="254" />
+    <option name="y" value="-7" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -179,12 +160,12 @@
       <workItem from="1569919350380" duration="8378000" />
       <workItem from="1569954375434" duration="4236000" />
       <workItem from="1570211880411" duration="902000" />
-      <workItem from="1570263380795" duration="6865000" />
+      <workItem from="1570263380795" duration="8775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28975000" />
+    <option name="totallyTimeSpent" value="30885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -202,7 +183,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -237,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="144" column="1" lean-forward="true" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
+        <state relative-caret-position="327">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
           <folding>
             <element signature="n#Products#0" />
           </folding>
